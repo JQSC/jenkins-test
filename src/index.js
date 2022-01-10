@@ -1,3 +1,3 @@
-const a="12111111131212"
+const a="111"
 
 console.log(a)
